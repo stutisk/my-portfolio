@@ -73,6 +73,7 @@ body {
 }
 .secondry-link{
    border-radius: 0.5rem;
+   background-color:var(--primary-color);
     color:rgb(12, 11, 11);
     display:block;
     max-width: 140px;
